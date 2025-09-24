@@ -30,7 +30,7 @@ Tkinter
 win10toast or plyer for notifications
 PyInstaller for packaging
 
-# 🧁 Folder Structure
+## 🧁 Folder Structure
 sip-n-stretch/
 ├── assets/              # Tray icon and other images
 ├── build/               # PyInstaller build files
