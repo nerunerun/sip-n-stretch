@@ -25,17 +25,17 @@ I hope this app would be useful for you too.
      python reminder_app.py
 
 ## 🧙 Tech Stack
-1. Python 3.x
-2. Tkinter
-3. win10toast or plyer for notifications
-4. PyInstaller for packaging
+. Python 3.x
+. Tkinter
+. win10toast or plyer for notifications
+. PyInstaller for packaging
 
 ## 🧁 Folder Structure
-   sip-n-stretch/
-    ├── assets/              # Tray icon and other images
-    ├── build/               # PyInstaller build files
-    ├── reminder_app/        # Main app code
-    │   ├── reminder_app.py
-    │   └── ...
-    ├── README.md
-    └── reminder_app.pkg     # Installer file
+sip-n-stretch/
+├── assets/              # Tray icon and other images
+├── build/               # PyInstaller build files
+├── reminder_app/        # Main app code
+│   ├── reminder_app.py
+│   └── ...
+├── README.md
+└── reminder_app.pkg     # Installer file
